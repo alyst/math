@@ -1,7 +1,7 @@
 #ifndef STAN_MATH_FWD_MAT_FUN_EIGEN_NUMTRAITS_HPP
 #define STAN_MATH_FWD_MAT_FUN_EIGEN_NUMTRAITS_HPP
 
-#include <stan/math/fwd/core.hpp>
+#include <stan/math/fwd/core/fvar.hpp>
 #include <stan/math/prim/mat/fun/Eigen.hpp>
 #include <limits>
 

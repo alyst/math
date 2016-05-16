@@ -2,6 +2,9 @@
 #define STAN_MATH_FWD_CORE_HPP
 
 #include <stan/math/fwd/core/fvar.hpp>
+
+#include <stan/math/fwd/mat/fun/Eigen_NumTraits.hpp>
+
 #include <stan/math/fwd/core/operator_addition.hpp>
 #include <stan/math/fwd/core/operator_division.hpp>
 #include <stan/math/fwd/core/operator_equal.hpp>
